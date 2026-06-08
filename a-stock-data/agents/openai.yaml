@@ -1,0 +1,3 @@
+display_name: A-Stock Data
+short_description: Fetch normalized public A-share market data for monitors and dashboards.
+default_prompt: Use a-stock-data to fetch A-share market data and produce a normalized JSON snapshot.
